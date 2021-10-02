@@ -1,1 +1,1 @@
-https://github.com/abelmathew07/github-slideshow
+[GitHub](http://github.com)
